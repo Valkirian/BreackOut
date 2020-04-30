@@ -1,0 +1,7 @@
+1. primero instalar la libreria de virtualenv con el manejador de paquetes "pip3"
+                    python -m pip install virtualenv
+
+2. Entrar a la carpeta del proyecto y luego entrar al a carpeta llamada "navalbattleship"
+3. Una vez dentro del a carpeta del virtualenv (navalbattleship) procederemos a activar el entorno virutal
+                    Desde CMD ejecutar el archivo "activate.bat" o "activate.ps1" que esta en la carpeta
+                    ./navalbattleship/bin/
